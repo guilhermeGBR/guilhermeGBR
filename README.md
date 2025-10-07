@@ -1,35 +1,22 @@
 ## Sobre mim
 
-- 🤔 Explorando novas tecnologias e interesse em Análise de Dados, Ciência de Dados e Programação.
+- 💻 Desenvolvedor Backend com 1 ano de experiência prática em Java e Spring Boot, focado em criar APIs REST bem estruturadas e de alta qualidade.
 - 🎓 Estudando Ciência da Computação no IFSuldeMinas Campus Passos.
-- 🌱 Aprendendo mais sobre Python para Alálise de Dados.
+- 🚀 Buscando a primeira oportunidade como Desenvolvedor Backend Júnior, com foco em boas práticas, aprendizado contínuo e entrega de valor.
+- 🌱 Atualmente aprimorando conhecimentos em Docker, JPA/Hibernate, CI/CD e Spring Security.
 
 ## Minhas Skills
 
 **Tecnologias em destaque**
 
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![R](https://img.shields.io/badge/-R-333333?style=flat&logo=r)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)
-![NumPy](https://img.shields.io/badge/-NumPy-333333?style=flat&logo=numPy)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-333333?style=flat)
-![Scikit-learn](https://img.shields.io/badge/-Scikitlearn-333333?style=flat&logo=scikitlearn)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=jupyter)
+Java | Spring Boot | Spring Data JPA | Hibernate | MySQL | H2 | Maven | Docker | Git | GitHub | Postman | JUnit
 
 **Outras Habilidades**
 
-![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C&logoColor=00599C)
-![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+Python | R | C | C++ | JavaScript | HTML5 | CSS | Pandas | NumPy | Matplotlib | Scikit-learn | Jupyter
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-Guilherme_Rossi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-rossi-427352281/)](https://www.linkedin.com/in/guilherme-rossi-427352281/)
+[![Linkedin](https://img.shields.io/badge/-Guilherme_Rossi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilhermerossi27)](https://www.linkedin.com/in/guilhermerossi27/)
 [![Gmail Badge](https://img.shields.io/badge/-guilhermerossi2703@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guilhermerossi2703@gmail.com)](mailto:guilhermerossi2703@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/guilhermeGBR?label=follow&style=social)](https://github.com/guilhermeGBR)
